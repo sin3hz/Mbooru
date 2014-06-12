@@ -1,0 +1,27 @@
+﻿{
+    "sites": [
+        {
+            "hash_key": "choujin-steiner--your-password--", 
+            "site_url": "https://yande.re", 
+            "site_name": "yande.re", 
+            "site_type": 0
+        }, 
+        {
+            "hash_key": "So-I-Heard-You-Like-Mupkids-?--your-password--", 
+            "site_url": "http://konachan.com", 
+            "site_name": "Konachan", 
+            "site_type": 0
+        }, 
+        {
+            "hash_key": "masaorz-r5quenm--your-password--", 
+            "site_url": "http://yukkuri.shii.org", 
+            "site_name": "One Yukkuri Place", 
+            "site_type": 1
+        }, 
+        {
+            "site_url": "http://danbooru.donmai.us", 
+            "site_name": "Danbooru", 
+            "site_type": 2
+        }
+    ]
+}
