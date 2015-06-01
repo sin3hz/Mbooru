@@ -1,27 +1,71 @@
 {
     "sites": [
         {
+            "site_id": 1,
             "hash_key": "choujin-steiner--your-password--", 
             "site_url": "https://yande.re", 
             "site_name": "yande.re", 
             "site_type": 0
         }, 
         {
+            "site_id": 2,
             "hash_key": "So-I-Heard-You-Like-Mupkids-?--your-password--", 
             "site_url": "http://konachan.com", 
             "site_name": "Konachan", 
             "site_type": 0
         }, 
         {
+            "site_id": 3,
             "hash_key": "masaorz-r5quenm--your-password--", 
             "site_url": "http://yukkuri.shii.org", 
             "site_name": "One Yukkuri Place", 
             "site_type": 1
         }, 
         {
+            "site_id": 4,
             "site_url": "http://danbooru.donmai.us", 
             "site_name": "Danbooru", 
             "site_type": 2
+        }, 
+        {
+            "site_id": 5,
+            "hash_key": "masaorz-r5quenm--your-password--", 
+            "site_url": "http://chan.sankakucomplex.com", 
+            "site_name": "Sankaku Channel", 
+            "site_type": 1
+        }, 
+        {
+            "site_id": 6,
+            "site_url": "http://gelbooru.com", 
+            "site_name": "Gelbooru", 
+            "site_type": 3
+        }, 
+        {
+            "site_id": 7,
+            "site_url": "http://safebooru.org", 
+            "site_name": "Safebooru", 
+            "site_type": 3
+        }, 
+        {
+            "site_id": 8,
+            "site_url": "http://xbooru.com", 
+            "site_name": "Xbooru", 
+            "site_type": 3
+        }, 
+        {
+            "site_id": 9,
+            "hash_key": "meganekko-heaven--your-password--", 
+            "site_url": "http://behoimi.org", 
+            "site_name": "3dbooru", 
+            "site_type": 1
+        }, 
+        {
+            "site_id": 10,
+            "hash_key": "", 
+            "site_url": "http://e621.net", 
+            "site_name": "e621", 
+            "site_type": 1
         }
     ]
 }
+
