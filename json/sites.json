@@ -28,13 +28,6 @@
             "site_type": 2
         }, 
         {
-            "site_id": 5,
-            "hash_key": "masaorz-r5quenm--your-password--", 
-            "site_url": "http://chan.sankakucomplex.com", 
-            "site_name": "Sankaku Channel", 
-            "site_type": 1
-        }, 
-        {
             "site_id": 6,
             "site_url": "http://gelbooru.com", 
             "site_name": "Gelbooru", 
